@@ -1,5 +1,0 @@
-# Redirect domain aliases to primary domain
-https://www.robvanmierlo.dev/* https://www.robvanmierlo.dev/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://stupefied-goldstine-7a9cfb.netlify.com/* https://www.robvanmierlo.dev/:splat 301!
