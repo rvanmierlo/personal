@@ -1,5 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.robvanmierlo.dev/"
 languageCode = "en-us"
 title = "Rob van Mierlo"
 themesDir = "themes"
 theme = "solar-theme-hugo"
+
+[[menu.main]]
+    name = "Inhoud"
+    weight = 1
+    url  = "/posts/"
+    
+[[params.social]]
+    title = "Twitter"
+    url = "https://twitter.com/Rupke75"
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/rvanmierlo"
+[[params.social]]
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/rob-van-mierlo-b968585/"
