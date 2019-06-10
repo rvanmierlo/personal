@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rob van Mierlo"
+themesDir = "themes"
+theme = "solar-theme-hugo"
